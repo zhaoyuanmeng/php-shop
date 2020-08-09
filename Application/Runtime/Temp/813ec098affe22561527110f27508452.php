@@ -1,0 +1,3 @@
+<?php
+//000000086400a:1:{i:0;a:7:{s:2:"id";s:2:"27";s:8:"cat_name";s:6:"手机";s:9:"parent_id";s:1:"0";s:8:"is_floor";s:3:"是";s:5:"brand";a:1:{i:0;a:3:{s:8:"brand_id";s:1:"5";s:10:"brand_name";s:6:"华为";s:4:"logo";s:34:"Brand/2020-05-17/5ec0cf7825f4b.jpg";}}s:6:"subCat";N;s:9:"recSubCat";a:2:{i:0;a:5:{s:2:"id";s:2:"28";s:8:"cat_name";s:9:"老人机";s:9:"parent_id";s:2:"27";s:8:"is_floor";s:3:"是";s:5:"goods";a:1:{i:0;a:4:{s:2:"id";s:2:"12";s:8:"mid_logo";s:42:"Goods/2020-05-17/thumb_2_5ec0d1ceb49c8.jpg";s:10:"goods_name";s:3:"hhh";s:10:"shop_price";s:6:"500.00";}}}i:1;a:5:{s:2:"id";s:2:"30";s:8:"cat_name";s:12:"游戏手机";s:9:"parent_id";s:2:"27";s:8:"is_floor";s:3:"是";s:5:"goods";b:0;}}}}
+?>
